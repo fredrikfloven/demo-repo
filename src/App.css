@@ -1,0 +1,65 @@
+.root-card {
+	margin: 20px auto;
+	padding: 20px;
+    max-width: 300px;
+    position: relative;
+}
+
+.root-card .text-field {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.root-spinner-container {
+    position: absolute;
+    background-color: #ffffffad;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+
+.root-spinner-container .root-spinner {
+    position: relative;
+    top: calc(50% - 40px/2);
+    left: calc(50% - 40px/2);
+}
+
+.root-card .connect {
+    left: calc(50% - 133px/2);
+}
+
+.root-card .error {
+    color: red;
+    margin-top: 0;
+    font-size: 1rem;
+}
+
+.root-card .card-content {
+    padding: 0px;
+    padding-bottom: 0 !important;
+}
+
+div[role='button'] {
+    margin: 10px 0;
+}
+
+.root-card .success {
+    background-color: green;
+    color: white;
+}
+
+.root-card .failure {
+    background-color: rgb(161, 0, 0);
+    color: white;
+}
+
+.root-card .in_progress {
+    background-color: rgb(255, 174, 0);
+    color: black;
+}
+
+.root-card .queued {
+    background-color: rgb(255, 174, 0);
+    color: black;
+}
