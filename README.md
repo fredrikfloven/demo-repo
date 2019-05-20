@@ -1,8 +1,8 @@
-[![Build Status](https://dev.azure.com/baarsoe/repo-monitor/_apis/build/status/fredrikfloven.demo-repo?branchName=master)](https://dev.azure.com/baarsoe/repo-monitor/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/baarsoe/repo-monitor/_apis/build/status/fredrikfloven.repo-monitor?branchName=master)](https://dev.azure.com/baarsoe/repo-monitor/_build/latest?definitionId=1&branchName=master)
 
 # Repo Monitor
 
-This is a web-based (React) widget shows information about a repository that you are working on. This will help developers to see activity in the repository without having to browse to GitHhub and refresh the page all the time. 
+This is a web-based (React) widget shows information about a repository that you are working on. This will help developers to see activity in the repository without having to browse to GitHub and refresh the page all the time. 
 
 ![Widget screenshot 1](/images/widget1.png "Widget screenshot 1")
 
