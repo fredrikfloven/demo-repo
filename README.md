@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/baarsoe/repo-monitor/_apis/build/status/fredrikfloven.repo-monitor?branchName=master)](https://dev.azure.com/baarsoe/repo-monitor/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/baarsoe/repo-monitor/_apis/build/status/fredrikfloven.demo-repo?branchName=master)](https://dev.azure.com/baarsoe/repo-monitor/_build/latest?definitionId=2&branchName=master)
 
 # Repo Monitor
 
